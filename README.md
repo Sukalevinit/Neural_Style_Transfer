@@ -1,6 +1,4 @@
-# Task 05 – Neural Style Transfer
-
-**Internship Project – CODECRAFT**
+# Task 02 – Neural Style Transfer
 
 ## 📄 Project Description
 
@@ -108,12 +106,5 @@ By completing this task, you gain practical experience in:
 * Feature extraction for vision tasks
 * Image style transfer via deep learning
 * Loss optimization and gradient computation in TensorFlow
-
----
-
-## 🤝 Contribution & Support
-
-This notebook is part of an internship task under **CODECRAFT**.
-For questions or guidance, please contact your CODECRAFT project supervisor.
 
 ---
